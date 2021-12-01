@@ -1,3 +1,3 @@
 # Tictac-toe
 
-i Create this TicTacToe in python From CleverProgrammer this first Project me in python
+I Create this TicTacToe in python From CleverProgrammer and this first Project me in python
